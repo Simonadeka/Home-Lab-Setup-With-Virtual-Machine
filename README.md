@@ -55,7 +55,10 @@ ping kali-Ip
 
 Start Experimenting Safely
 Lab is now ready for: 
-Port scanning, Metasploit, FIM with AIDE, Log analysis, Hardening.
+1. Port scanning,
+2. Metasploit, FIM with AIDE,
+3. Log analysis,
+4. Hardening.
 
 Key Skills & Learnings
 Virtualization: VM provisioning, resource allocation, snapshots
