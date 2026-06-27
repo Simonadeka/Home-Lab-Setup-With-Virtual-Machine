@@ -53,9 +53,6 @@ ip addr
 ping kali-Ip
 ![Ubuntu Ping](ubuntu.png)
 
-Name : Baseline_Clean_Install.After each major config change: New snapshot. 
-Name : Post_AIDE_Install.7. 
-
 Start Experimenting Safely
 Lab is now ready for: 
 Port scanning, Metasploit, FIM with AIDE, Log analysis, Hardening.
@@ -65,7 +62,7 @@ Virtualization: VM provisioning, resource allocation, snapshots
 
 Networking: Host-Only vs NAT vs Bridged, static IPs
 
-Linux Administration: Ubuntu Server install, SSH, package managementSecurity 
+Linux Administration: Ubuntu Server install, SSH, package management Security 
 
 Mindset: Building an isolated range for safe testing
 
