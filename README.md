@@ -46,6 +46,11 @@ ping <ubuntu-ip> Expected: 0% packet loss.6.
 
 Evidence / Proof
 ![Kali IP](kali-ip.png)
+
+### 6. Verify Connectivity
+From Ubuntu terminal:
+ip a
+ping <kali-Ip> 
 ![Ubuntu Ping](ubuntu.png)
 
 Name : Baseline_Clean_Install.After each major config change: New snapshot. 
