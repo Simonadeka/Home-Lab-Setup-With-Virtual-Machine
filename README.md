@@ -45,8 +45,8 @@ ip a
 ping <ubuntu-ip> Expected: 0% packet loss.6.
 
 Evidence / Proof
-![Kali IP](docs/kali-ip.png)
-![Ubuntu Ping](docs/ubuntu-ping.png)
+![Kali IP](kali-ip.png)
+![Ubuntu Ping](ubuntu.png)
 
 Name : Baseline_Clean_Install.After each major config change: New snapshot. 
 Name : Post_AIDE_Install.7. 
