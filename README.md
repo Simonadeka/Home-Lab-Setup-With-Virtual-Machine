@@ -41,16 +41,19 @@ This lab is the foundation for my 100-Day Metasploit + Blue Team Lab Challenge.
 
 ### 5. Verify Connectivity
 From Kali terminal:
-
 ip a
-ping <ubuntu-ip>Expected: 0% packet loss.6. Baseline & Snapshots
-Before any testing: Take a clean snapshot. 
+ping <ubuntu-ip> Expected: 0% packet loss.6.
+
+Evidence / Proof
+![Kali IP](docs/kali-ip.png)
+![Ubuntu Ping](docs/ubuntu-ping.png)
 
 Name : Baseline_Clean_Install.After each major config change: New snapshot. 
 Name : Post_AIDE_Install.7. 
 
 Start Experimenting Safely
-Lab is now ready for: Port scanning, Metasploit, FIM with AIDE, Log analysis, Hardening.
+Lab is now ready for: 
+Port scanning, Metasploit, FIM with AIDE, Log analysis, Hardening.
 
 Key Skills & Learnings
 Virtualization: VM provisioning, resource allocation, snapshots
@@ -61,9 +64,6 @@ Linux Administration: Ubuntu Server install, SSH, package managementSecurity
 
 Mindset: Building an isolated range for safe testing
 
-Evidence / Proof
-![Kali IP](docs/kali-ip.png)
-![Ubuntu Ping](docs/ubuntu-ping.png)
 
 Next Steps
 
